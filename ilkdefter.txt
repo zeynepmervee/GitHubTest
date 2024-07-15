@@ -1,1 +1,3 @@
-git kursuna hoş geldiniz
+git kursuna hos geldiniz
+
+bu dersimizde gitignore konusunu ogrenecegiz
